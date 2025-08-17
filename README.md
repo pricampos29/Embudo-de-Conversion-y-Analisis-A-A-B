@@ -42,8 +42,6 @@ Investigar el comportamiento de los usuarios dentro de la aplicación de una emp
 ## ✅ Recomendaciones
 1. Optimizar la pantalla principal para mejorar la transición hacia el carrito, mediante mejoras en diseño, navegación y personalización.
 2. Implementar el nuevo diseño tipográfico, ya que no genera fricción ni pérdida de usuarios.
-3. Mantener el nivel de significancia en 0.05 y aplicar correcciones por múltiples pruebas en futuros experimentos.
-4. Continuar con pruebas iterativas, enfocadas en retención, navegación y conversión.
 
 ## 🌟 Aclaraciones
 Incluye observaciones de revisión realizadas durante el bootcamp. Refleja tanto el enfoque técnico como la evolución del análisis con base en feedback experto.
